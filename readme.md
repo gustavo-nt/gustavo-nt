@@ -19,7 +19,7 @@ I also work as a developer frontend in [Allinsys](http://allinsys.com.br)
 # Português
 ### Olá! Bem vindo ao meu Github
 
-Meu nome é Gustavo Teixeira e sou Desenvolvedor Full Stack Júnior.
+Meu nome é Gustavo Teixeira e sou Desenvolvedor Frontedn Júnior.
 
 - ✅ HTML / CSS / Sass / Bootstrap / C++
 - 📕 Estudando JavaScript, Node.js, MySQL and Java
