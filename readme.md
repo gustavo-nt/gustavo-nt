@@ -26,3 +26,5 @@ Meu nome é Gustavo Teixeira e sou Desenvolvedor Frontend Júnior.
 - 📖 Tenho interesse em Vue, React Native and Angular
 
 Também trabalho como Desenvolvedor Frontend [Allinsys](http://allinsys.com.br)
+
+<img src="https://github-readme-stats.vercel.app/api?username=gustavo-nt&theme=light&show_icons=true" />
