@@ -8,10 +8,10 @@
 
 ### Hey! Welcome to my profile on Github
 
-My name is Gustavo Teixeira and i'm a Frontend Júnior developer.
+My name is Gustavo Teixeira and I'm a Frontend Júnior developer.
 
 - ✅ HTML / CSS / JavaScript / Bootstrap / C
-- 📕 Learning , React, Node.js, MySQL and Java
+- 📕 Learning , React, Node.js and MySQL
 - 📖 I have interest in Vue, React Native and Angular
 
 I also work as a developer frontend in [Allinsys](http://allinsys.com.br)
@@ -22,9 +22,9 @@ I also work as a developer frontend in [Allinsys](http://allinsys.com.br)
 Meu nome é Gustavo Teixeira e sou Desenvolvedor Frontend Júnior.
 
 - ✅ HTML / CSS / JavaScript / Bootstrap / C
-- 📕 Estudando React, Node.js, MySQL and Java
-- 📖 Tenho interesse em Vue, React Native and Angular
+- 📕 Estudando React, Node.js e MySQL
+- 📖 Tenho interesse em Vue, React Native e Angular
 
-Também trabalho como Desenvolvedor Frontend [Allinsys](http://allinsys.com.br)
+Também trabalho como Desenvolvedor Frontend na [Allinsys](http://allinsys.com.br)
 
 <img src="https://github-readme-stats.vercel.app/api?username=gustavo-nt&theme=light&show_icons=true" />
