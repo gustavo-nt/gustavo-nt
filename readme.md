@@ -27,4 +27,13 @@ Meu nome é Gustavo Teixeira e sou Desenvolvedor Frontend Júnior.
 
 Também trabalho como Desenvolvedor Frontend na [Allinsys](http://allinsys.com.br)
 
-<img src="https://github-readme-stats.vercel.app/api?username=gustavo-nt&theme=light&show_icons=true" />
+<table align='left'>
+  <row>
+    <td>
+      <img height='172' src="https://github-readme-stats.vercel.app/api?username=gustavo-nt&theme=light&show_icons=true" />
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-nt&layout=compact&theme=light' />
+    </td>
+  </row>
+</table>
