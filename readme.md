@@ -11,7 +11,7 @@
 My name is Gustavo Teixeira and I'm a Frontend Júnior developer.
 
 - ✅ HTML / CSS / JavaScript / Bootstrap / C
-- 📕 Learning , React, Node.js and MySQL
+- 📕 Learning React, Next, Node.js and TS
 - 📖 I have interest in Vue, React Native and Angular
 
 I also work as a developer front-end in [WEBJUMP](https://webjump.com.br/)
@@ -22,7 +22,7 @@ I also work as a developer front-end in [WEBJUMP](https://webjump.com.br/)
 Meu nome é Gustavo Teixeira e sou Desenvolvedor Frontend Júnior.
 
 - ✅ HTML / CSS / JavaScript / Bootstrap / C
-- 📕 Estudando React, Node.js e MySQL
+- 📕 Estudando React, Next, Node.js and TS
 - 📖 Tenho interesse em Vue, React Native e Angular
 
 Também trabalho como Desenvolvedor Front-end na [WEBJUMP](https://webjump.com.br/)
