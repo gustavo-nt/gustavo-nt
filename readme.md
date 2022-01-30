@@ -8,7 +8,7 @@
 
 ### Hey! Welcome to my profile on Github
 
-My name is Gustavo Teixeira and I'm a Frontend Junior developer.
+My name is Gustavo Teixeira and I'm a Frontend developer.
 
 - ✅ HTML / CSS / JavaScript / Bootstrap / C
 - 📕 Learning React, Next, Node.js and TS
@@ -19,7 +19,7 @@ I also work as a developer front-end in [WEBJUMP](https://webjump.com.br/)
 # Português
 ### Olá! Bem vindo ao meu Github
 
-Meu nome é Gustavo Teixeira e sou Desenvolvedor Frontend Júnior.
+Meu nome é Gustavo Teixeira e sou Desenvolvedor Frontend.
 
 - ✅ HTML / CSS / JavaScript / Bootstrap / C
 - 📕 Estudando React, Next, Node.js and TS
