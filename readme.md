@@ -10,22 +10,22 @@
 
 My name is Gustavo Teixeira and I'm a Frontend developer.
 
-- ✅ HTML / CSS / JavaScript / Bootstrap / C
+- ✅ HTML / CSS / JavaScript / Magento 2
 - 📕 Learning React, Next, Node.js and TS
 - 📖 I have interest in Vue, React Native and Angular
 
-I also work as a developer front-end in [WEBJUMP](https://webjump.com.br/)
+I also work as a developer front-end in [Granado | Phebo](https://www.granado.com.br/)
 
 # Português
 ### Olá! Bem vindo ao meu Github
 
 Meu nome é Gustavo Teixeira e sou Desenvolvedor Frontend.
 
-- ✅ HTML / CSS / JavaScript / Bootstrap / C
+- ✅ HTML / CSS / JavaScript / Magento 2
 - 📕 Estudando React, Next, Node.js and TS
 - 📖 Tenho interesse em Vue, React Native e Angular
 
-Também trabalho como Desenvolvedor Front-end na [WEBJUMP](https://webjump.com.br/)
+Também trabalho como Desenvolvedor Front-end na [Granado | Phebo](https://www.granado.com.br/)
 
 <div>
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=gustavo-nt&theme=light&show_icons=true" />
